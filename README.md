@@ -1,5 +1,5 @@
 - [Online demo](https://68437a84e6d088d10f73db5f--serene-cajeta-548e0f.netlify.app/) 🪄
-- Applying some position tricks for designing a web-page using HTML and CSS.
+- Applying some position tricks for designing a web-page, using HTML and CSS.
 - Developed By: Reyhaneh Ghalambor
 - Jun 7 - 2025
 - Master: Parsa Ghorbanian
